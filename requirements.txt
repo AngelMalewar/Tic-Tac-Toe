@@ -1,0 +1,2 @@
+# this comment is by me and not auto-generated. Its says that I have installed the requirements 
+pygame
